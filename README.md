@@ -2,7 +2,7 @@
 
 
 🎓 Computer Engineering Undergraduate at **IOE, Thapathali Campus**  
-💻 AI & Machine Learning Enthusiast | Backend Developer 
+💻 AI & Machine Learning Enthusiast | Backend Developer
 📍 Kathmandu, Nepal
 
 I'm passionate about building intelligent applications and solving real-world problems with software. My interests lie in **Artificial Intelligence, Machine Learning, Data Science, and Backend Development**. I enjoy learning new technologies and contributing to meaningful projects.
