@@ -1,6 +1,5 @@
 # Hi there, I'm Ninamhang Kulung
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 Computer Engineering Undergraduate at **IOE, Thapathali Campus**  
 💻 AI & Machine Learning Enthusiast | Backend Developer 
