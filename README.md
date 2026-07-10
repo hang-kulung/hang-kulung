@@ -24,7 +24,7 @@ I'm passionate about building intelligent applications and solving real-world pr
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### AI & Backend
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -35,25 +35,15 @@ I'm passionate about building intelligent applications and solving real-world pr
 ### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
----
-
-## 📌 Featured Projects
-
-### 🏋️ Personal Fitness AI Assistant
-An AI-powered fitness assistant that generates personalized workout and diet plans based on user preferences and attributes.
-
-### 🏏 NPL Fantasy League
-A full-stack fantasy cricket platform where users create and manage teams for Nepal Premier League matches.
-
-### 🗺️ 2D College Map
-An interactive top-down campus map inspired by RPG games, allowing users to explore Thapathali Campus.
-
-### 🔢 Digit Recognizer
-Implemented a handwritten digit recognition neural network **from scratch in C++** without external ML frameworks.
-
-### 🗳️ ChainBallot
-A blockchain-based online voting system focused on vote integrity, anonymity, and transparency.
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
